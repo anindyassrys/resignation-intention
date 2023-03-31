@@ -1,6 +1,8 @@
 # Resignation Intention Final Project
-In our Artificial Intelligence and Data Science course, we were assigned a final project that involved working with a large dataset. The goal was to explore and analyze the data, and then create machine learning models that could assist the company in making better data-driven decisions. Specifically, the dataset we were given for our project pertained to employees' intentions to resign from a company.
+## 📊Goal
+Explore and analyze the data, and then create machine learning models that could assist the company in making better data-driven decisions. Specifically, the dataset we were given for our project pertained to employees' intentions to resign from a company.
 
+## 📑Tasks
 Our project tasks included:
 1. Visualizing the characteristics of employees who were considering resigning
 2. Determining whether receiving a promotion affected an employee's likelihood to resign
